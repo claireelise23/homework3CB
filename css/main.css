@@ -1,0 +1,183 @@
+.section_1 {
+  background-color: black;
+  border-bottom: yellow 8px solid;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: yellow;
+  font-size: 40px;
+  font-family: 'Patua One', cursive;
+  letter-spacing: 1px;
+  padding: 5px;
+  width: 100%;
+}
+
+.clear {
+  clear: both;
+}
+
+nav {
+  color: white;
+  line-spacing: 1px;
+  height: 75px;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+}
+
+ul {
+  list-style: none;
+  text-align: right;
+  padding-right: 25px;
+}
+
+li {
+  display: inline-block;
+  margin-top: 0;
+  margin-right: 0;
+  padding-left: 50px;
+  /*width: 15%;*/
+}
+
+.find_menu {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.about_menu {
+  font-weight: normal;
+  line-spacing: 2px;
+}
+
+.tagline {
+  background-color: #bec5d1;
+  margin: 0 auto;
+  padding: 1% 0;
+  font-family: 'Patua One', cursive;
+  font-style: italic;
+  text-align: center;
+}
+
+.taste {
+  color: #474747;
+  text-decoration: line-through;
+  font-style: italic;
+}
+
+.are {
+  border-bottom: 3px solid yellow;
+}
+
+.main_section {
+  background-image: url("../images/coworking.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.MatchBox {
+ float: right;
+ height: 80%;
+ opacity: 0.8;
+ width: 28%;
+ background-color: #dce4f2;
+ margin: 25px;
+ padding: 20px 10px;
+}
+
+.details {
+  clear: both;
+  height: 300px;
+  width: auto;
+}
+
+.MeetYourMatchTitle {
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 5px;
+  margin: 10px;
+}
+
+.MeetYourMatchText {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.CreateAProfileButton {
+  display: inline-block;
+  background-color: yellow;
+  border-radius: 10px;
+  box-shadow: 5px 5px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  float: right;
+  height: 30px;
+  margin: 25px 50px 25px 25px;
+  padding: 15px 10px 15px 10px;
+  width: 65%;
+  text-align: center;
+  vertical-align: center;
+}
+
+.copyright {
+  clear: both;
+}
+
+.BoxRow {
+  float: left;
+  height: 175px;
+  margin-top: 2%;
+  padding: 1%;
+  width: 29%;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.LastTwo {
+  padding: 2%;
+  /*margin-left: 2%;*/
+  border-left-style: solid;
+  border-width: 2px;
+  border-color: gray;
+}
+
+.GrayButton {
+  background-color: gray;
+  border-radius: 10px;
+  box-shadow: 5px 5px #474747;display: block;
+  clear: both;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  font-weight: 900;
+  height: 35px;
+  width: 75%;
+  text-align: center;
+  vertical-align: center;
+  padding: 5px;
+}
+
+.copyright {
+  background-color: black;
+  color: white;
+  font-family:'Oswald', sans-serif;
+  height: 20px;
+  letter-spacing: 1px;
+  padding: 20px;
+  text-align: left;
+  vertical-align: center;
+}
